@@ -1,0 +1,132 @@
+.hrrr { 
+    background-color: black;
+    color: white;
+    height:45px;
+}
+.headerrr{
+    display: flex;
+    justify-content: space-around;
+    justify-items: center;
+    /* background-color: #974053; */
+    height: 10vh;
+    position: sticky;
+    top: 0px    ;
+}
+.nav-main{
+    display: flex;
+    text-align: left;
+}
+.menu{
+    margin: 15px;
+    gap: 0px;
+
+}
+
+.search{
+    margin: 15px;
+}
+.meenu ul{
+    /* display: flex; */
+    list-style: none;
+}
+.searchh ul{
+    display: flex;
+    list-style: none;
+}
+
+.nav-main ul {
+    display: flex;
+    gap: 50px;
+    list-style: none;
+}
+.nav-main ul a{
+    text-decoration: none;
+    color: black;
+
+}
+.name {
+    list-style: none;
+    font-size: 35px;
+    justify-content: center; 
+
+}
+
+.Abooutus h2{
+    margin-top: 150px;
+    margin-right: 175px;
+    text-align: center;
+}
+.parent{
+    display: flex;
+    height: 90vh;
+
+}
+.ftr{
+    height: 300px;
+    color: wheat;
+    background-color: rgb(66, 24, 24);
+    
+}
+.ftr h2{
+    font-size: 40px;
+    border-bottom: 10px solid white;
+}
+.huu{
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 10px solid white;
+
+}
+.last{
+    text-align: center;
+}
+
+
+
+
+.my-class-2
+{
+    background-color: white;
+    color: black;
+}
+
+
+.my-class
+{
+    background-color: black;
+    color: white;
+}
+.thumbnail img{
+    height: 40vh;
+    width: 100%;
+    /* box-shadow: 10px; */
+    /* border: 2px solid black; */
+}
+.thumbnail{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.parent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+     /* width: 100vw; */
+    height: 20px; 
+    margin-top: 130px;
+    gap: 100px;
+    /* display: hidden; */
+
+}
+/* .parent .child{
+   width:20%;
+
+
+} */
+ .parent img{
+    width: 200px;
+    display: block;
+
+
+ }
+ 
